@@ -1,4 +1,4 @@
-## To Get Access/Buy Script Contact Me Via Telegram [@SpotiTools]
+## Contact Me Via Telegram [@SpotiTools]
 
 [https://t.me/SpotiTools](https://t.me/SpotiTools)
 
@@ -19,7 +19,7 @@ Spotify Account Creator bot using WEB API (Latest chrome fingerprints) to ensure
 **
 
 
-## To Get Access/Buy Script Contact Me Via Telegram [@SpotiTools]
+## Contact Me Via Telegram [@SpotiTools]
 
 [https://t.me/SpotiTools](https://t.me/SpotiTools)
 
