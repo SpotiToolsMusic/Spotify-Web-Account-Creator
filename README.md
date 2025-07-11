@@ -3,7 +3,7 @@
 [https://t.me/SpotiTools](https://t.me/SpotiTools)
 
 ## Spotify Web API Account Creator V 1.0.0
-Spotify Password reset bot using WEB API (Latest chrome fingerprints) to ensure  compatibility with web-based authentication workflows.
+Spotify Account Creator bot using WEB API (Latest chrome fingerprints) to ensure  compatibility with web-based authentication workflows.
 
 :white_check_mark:  WEB API Based.  
 :white_check_mark:  Uses Latest Chrome Finerprints.  
