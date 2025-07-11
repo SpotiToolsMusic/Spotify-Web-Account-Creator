@@ -9,6 +9,7 @@ Spotify Password reset bot using WEB API (Latest chrome fingerprints) to ensure 
 :white_check_mark:  Uses Latest Chrome Finerprints.  
 :white_check_mark:  Uses Latest TOTP Version For Login.  
 :white_check_mark:  Solves reCaptcha via Capsolver.  
+:white_check_mark:  Option To Use Your Own Domains Or Generic Domains.  
 :white_check_mark:  Set How Many Accounts To Create.  
 :white_check_mark:  Multi-Threading support.  
 :white_check_mark:  After Login Adds Device.  
