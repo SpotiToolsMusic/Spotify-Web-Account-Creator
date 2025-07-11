@@ -1,4 +1,4 @@
-## To Gget Access/Buy Sscript Contact Me Via Telegram [@SpotiTools]
+## To Get Access/Buy Script Contact Me Via Telegram [@SpotiTools]
 
 [https://t.me/SpotiTools](https://t.me/SpotiTools)
 
@@ -18,7 +18,7 @@ Spotify Password reset bot using WEB API (Latest chrome fingerprints) to ensure 
 **
 
 
-## To Gget Access/Buy Sscript Contact Me Via Telegram [@SpotiTools]
+## To Get Access/Buy Script Contact Me Via Telegram [@SpotiTools]
 
 [https://t.me/SpotiTools](https://t.me/SpotiTools)
 
