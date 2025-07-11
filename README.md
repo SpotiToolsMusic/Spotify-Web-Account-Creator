@@ -6,7 +6,8 @@ TO GET ACCESS/BUY SCRIPT, CONTACT [https://t.me/SpotiTools](https://t.me/SpotiTo
 Spotify Password reset bot using WEB API (Latest chrome fingerprints) to ensure  compatibility with web-based authentication workflows.
 
 :white_check_mark:  WEB API Based.  
-:white_check_mark:  Latest Chrome Finerprints.  
+:white_check_mark:  Uses Latest Chrome Finerprints.  
+:white_check_mark:  Uses Latest TOTP Version For Login.  
 :white_check_mark:  Solves reCaptcha via Capsolver.  
 :white_check_mark:  Set How Many Accounts To Create.  
 :white_check_mark:  Multi-Threading support.  
