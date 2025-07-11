@@ -12,11 +12,15 @@ Spotify Account Creator bot using WEB API (Latest chrome fingerprints) to ensure
 :white_check_mark:  Option To Use Your Own Domains Or Generic Domains.  
 :white_check_mark:  Set How Many Accounts To Create.  
 :white_check_mark:  Multi-Threading support.  
-:white_check_mark:  After Login Adds Device.  
+:white_check_mark:  After Login Script Will Add Device.  
 :white_check_mark:  Create Cookies ({'user_id': user_id, 'access_token': access_token, 'sp_dc': sp_dc_cookie}).  
 :white_check_mark:  Supports HTTP Proxies.  
 
 **
+
+
+https://github.com/user-attachments/assets/8049f9b8-22f8-480e-9ebd-5b48a8b84ff6
+
 
 
 ## Contact Me Via Telegram [@SpotiTools]
