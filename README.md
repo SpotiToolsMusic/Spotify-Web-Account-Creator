@@ -1,3 +1,7 @@
+## DISCORD [SPTOI TOOLS API]
+
+https://discord.gg/hxShyEEqqK
+
 ## Contact Me Via Telegram [@SpotiTools]
 
 [https://t.me/SpotiTools](https://t.me/SpotiTools)
@@ -21,7 +25,9 @@ Spotify Account Creator bot using WEB API (Latest chrome fingerprints) to ensure
 
 https://github.com/user-attachments/assets/8049f9b8-22f8-480e-9ebd-5b48a8b84ff6
 
+## DISCORD [SPTOI TOOLS API]
 
+https://discord.gg/hxShyEEqqK
 
 ## Contact Me Via Telegram [@SpotiTools]
 
